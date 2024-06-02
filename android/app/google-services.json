@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "26570862721",
+    "project_id": "phipos-d3f4e",
+    "storage_bucket": "phipos-d3f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26570862721:android:4c6b62e13ff8693d4d9d80",
+        "android_client_info": {
+          "package_name": "com.example.phipos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26570862721-1te3m2rvccs819frlibf0vktqdf5ucjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzh1jMwv6V67Z8xwRyHAiRax75j42BQWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26570862721-1te3m2rvccs819frlibf0vktqdf5ucjf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26570862721-022rb7h4vab09bpjskb7tgrbrqnsfchc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pihorizonn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26570862721:android:28ce39365510e9864d9d80",
+        "android_client_info": {
+          "package_name": "com.example.pihorizonn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26570862721-1te3m2rvccs819frlibf0vktqdf5ucjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzh1jMwv6V67Z8xwRyHAiRax75j42BQWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26570862721-1te3m2rvccs819frlibf0vktqdf5ucjf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26570862721-022rb7h4vab09bpjskb7tgrbrqnsfchc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pihorizonn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
